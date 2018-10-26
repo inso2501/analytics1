@@ -40,3 +40,5 @@ rep(c(1,4), each= 4)
 rep(c(1,4),time= c(2,4))
 
 plot(1:10)
+
+source('test1.R')
