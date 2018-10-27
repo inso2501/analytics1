@@ -91,7 +91,7 @@ range(mtcars$wt)
 cbind(new,p1)
 plot(new)
 plot(fit2)
-
+summary(fit2)
 
 
 
